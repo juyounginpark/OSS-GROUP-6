@@ -2,13 +2,13 @@
 
 > 작성자: 이윤호
 
-<img src="images/flag.png" alt="멕시코 국기" width="180" />
+![멕시코 국기](images/flag.png)
 
 ---
 
 ## 🌍 나라 소개 · Intro
 
-<img src="images/img_mexicocity.webp" alt="멕시코시티 전경" width="540" />
+![멕시코시티 전경](images/img_mexicocity_540.webp)
 
 멕시코는 북아메리카 남부에 자리한 나라로, 태평양과 멕시코만, 카리브해에 걸쳐 있습니다. 정식 국명은 멕시코 합중국이며, 31개 주와 수도인 멕시코시티로 이루어진 연방 국가입니다.
 
@@ -39,4 +39,3 @@
 
 - [About Mexico — Visit Mexico](https://visitmexico.com/en/pagina/sobre-mexico)
 - [Archaeological Sites — National Institute of Anthropology and History (INAH)](https://lugares.inah.gob.mx/en/zonas-arqueologicas)
-- [getyourguide - 멕시코시티 최고의 전망 8곳](https://www.getyourguide.com/ko-kr/explorer/mexico-city-ttd194/best-views-in-mexico-city/)
