@@ -66,6 +66,15 @@
 - **볼거리:** 절벽 위 마을 풍경과 에게해의 일몰
 - **사진:** [Norbert Nagel / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oia_-_Santorini_-_Greece_-_11.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · 원본 사용
 
+### ⛰️ 3. 메테오라
+
+**메테오라(Meteora)**는 거대한 바위 기둥 위에 수도원들이 자리한 곳입니다. 독특한 자연경관과 수도원의 모습이 어우러져, 그리스의 섬과는 또 다른 분위기를 느낄 수 있습니다.
+
+<img src="images/meteora.jpg" alt="거대한 바위 위에 자리한 메테오라 수도원들" width="720" />
+
+- **볼거리:** 바위 위 수도원과 주변 계곡의 탁 트인 풍경
+- **사진:** [Giles Laurent / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1018_Panoramic_view_of_Monasteries_of_Rousanou,_Varlaam_and_Great_Meteoron_in_Meteora_Photo_by_Giles_Laurent.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용
+
 ## 🍽️ 유명 음식
 
 <!-- 음식 소개와 이미지를 넣으세요. -->
