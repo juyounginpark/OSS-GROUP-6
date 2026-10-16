@@ -85,6 +85,14 @@
 
 *사진: [Michael Wittwer / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moussaka_2022.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용*
 
+### 🍢 2. 수블라키
+
+**수블라키**는 작게 썬 돼지고기나 닭고기를 꼬치에 꿰어 구운 그리스 음식입니다. 구운 고기의 풍미와 레몬의 산뜻함이 특징이며, 피타 빵이나 채소, 차지키소스를 곁들여 간편한 한 끼로 즐길 수 있습니다.
+
+<img src="images/souvlaki.jpg" alt="빵과 감자튀김을 곁들인 수블라키 고기 꼬치" width="480" />
+
+*사진: [NikosLikomitros / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_souvlaki.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · 원본 사용*
+
 ## ✨ 자유 주제
 
 <!-- 원하는 주제를 정하고 단락을 작성하세요. -->
