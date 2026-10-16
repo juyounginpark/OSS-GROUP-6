@@ -31,7 +31,8 @@
 ### 🧙‍♂️ 마법 세계로의 특별한 여정, 해리포터 스튜디오 (Warner Bros. Studio Tour London)
 세계적인 사랑을 받은 영화 <해리포터> 시리즈의 제작 현장을 그대로 옮겨 놓은 체험형 전시관입니다. 호그와트 마법학교의 대연회장, 9와 4/3 승강장, 다이애건 앨리 등 실제 촬영 세트장과 의상, 소품들을 눈앞에서 직접 확인하며 영화 속 마법 세계로 들어간 듯한 몰입감을 선사합니다.
 
-<img src="images/Harry_Potter_Studio.webp" alt="해리포터 스튜디오" height="540" />
+<img src="images/Harry_Potter_Studio.jpg" alt="해리포터 스튜디오" height="540" />
+> 📷 이미지 출처: [하나투어](https://www.klook.com/ko/blog/harry-potter-warner-bros-studio-tour-tokyo-guide/)
 
 ## 🍽️ 유명 음식
 
