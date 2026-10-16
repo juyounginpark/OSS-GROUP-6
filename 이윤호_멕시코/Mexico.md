@@ -8,7 +8,7 @@
 
 ## 🌍 나라 소개 · Intro
 
-![멕시코시티 전경](images/img_mexicocity_540.webp)
+![멕시코시티 전경](images/img_mexicocity.webp)
 
 > **고대 문명의 유적부터 활기찬 도시의 시장까지, 멕시코에서는 서로 다른 시대와 지역의 풍경을 만날 수 있습니다.**
 
