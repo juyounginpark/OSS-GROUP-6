@@ -61,7 +61,9 @@
 
 ## ✨ 자유 주제
 
+### 망자의 날 (Día de Muertos)
 
+멕시코 원주민 공동체가 이어 온 망자의 날은 세상을 떠난 가족과 가까운 이들이 잠시 돌아온다고 기리는 축제입니다. 매년 10월 말부터 11월 초에 열리며, 가족은 꽃잎과 촛불, 제물을 놓고 고인이 좋아하던 음식을 준비합니다. 지역과 공동체에 따라 의례와 풍습은 다르게 이어집니다. ([UNESCO 무형문화유산 설명](https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054))
 
 ## 🧳 마무리 및 본인이 추천하는 코스
 
@@ -76,3 +78,4 @@
 
 - [About Mexico — Visit Mexico](https://visitmexico.com/en/pagina/sobre-mexico)
 - [Archaeological Sites — National Institute of Anthropology and History (INAH)](https://lugares.inah.gob.mx/en/zonas-arqueologicas)
+- [Indigenous festivity dedicated to the dead — UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054)
