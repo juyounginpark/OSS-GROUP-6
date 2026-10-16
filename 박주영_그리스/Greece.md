@@ -57,6 +57,15 @@
 - **볼거리:** 파르테논 신전과 언덕에서 내려다보는 아테네 전경
 - **사진:** [C.Skaug / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parthenon-akropolis-athen.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용
 
+### 🌅 2. 산토리니 이아 마을
+
+**이아(Oia)**는 산토리니의 절벽을 따라 하얀 건물들이 모여 있는 마을입니다. 바다를 바라보며 골목을 걷고, 해 질 무렵에는 아름다운 노을을 감상할 수 있습니다.
+
+<img src="images/santorini-oia.jpg" alt="바다에서 바라본 산토리니 이아 마을의 절벽과 건물" width="720" />
+
+- **볼거리:** 절벽 위 마을 풍경과 에게해의 일몰
+- **사진:** [Norbert Nagel / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oia_-_Santorini_-_Greece_-_11.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · 원본 사용
+
 ## 🍽️ 유명 음식
 
 <!-- 음식 소개와 이미지를 넣으세요. -->
