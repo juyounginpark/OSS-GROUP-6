@@ -77,7 +77,13 @@
 
 ## 🍽️ 유명 음식
 
-<!-- 음식 소개와 이미지를 넣으세요. -->
+### 🍆 1. 무사카
+
+**무사카**는 가지와 다진 고기를 층층이 쌓고 베샤멜소스를 올려 오븐에 구운 그리스의 대표 요리입니다. 부드러운 가지와 진한 고기 소스, 고소한 윗면이 어우러져 든든한 한 끼로 즐기기 좋습니다.
+
+<img src="images/moussaka.jpg" alt="샐러드를 곁들인 그리스 요리 무사카" width="720" />
+
+*사진: [Michael Wittwer / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moussaka_2022.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용*
 
 ## ✨ 자유 주제
 
