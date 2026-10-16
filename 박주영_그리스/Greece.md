@@ -48,7 +48,14 @@
 
 ## 📍 유명 여행지
 
-<!-- 여행지 소개와 이미지를 넣으세요. -->
+### 🏛️ 1. 아테네 아크로폴리스
+
+**아크로폴리스**는 아테네의 언덕 위에 자리한 고대 유적지입니다. 대표 건축물인 **파르테논 신전**을 통해 고대 그리스의 건축미를 살펴볼 수 있습니다.
+
+<img src="images/acropolis.jpg" alt="아테네 아크로폴리스의 파르테논 신전" width="720" />
+
+- **볼거리:** 파르테논 신전과 언덕에서 내려다보는 아테네 전경
+- **사진:** [C.Skaug / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parthenon-akropolis-athen.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용
 
 ## 🍽️ 유명 음식
 
