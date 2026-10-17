@@ -86,6 +86,12 @@
 
 <img src="images/souvlaki.jpg" alt="빵과 감자튀김을 곁들인 수블라키 고기 꼬치" width="480" />
 
+### 🥗 3. 그릭 샐러드
+
+**그릭 샐러드**는 토마토, 오이, 양파, 올리브에 페타 치즈와 올리브유를 곁들인 그리스의 대표 샐러드입니다. 아삭한 채소와 짭짤한 치즈가 어우러져 산뜻하며, 구운 고기나 빵과 함께 즐기기 좋습니다.
+
+<img src="images/greek-salad.jpg" alt="토마토와 오이, 올리브 위에 페타 치즈를 올린 그릭 샐러드" width="720" />
+
 ## ✨ 자유 주제
 
 <!-- 원하는 주제를 정하고 단락을 작성하세요. -->
@@ -108,5 +114,6 @@
 | 메테오라 | [Giles Laurent / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1018_Panoramic_view_of_Monasteries_of_Rousanou,_Varlaam_and_Great_Meteoron_in_Meteora_Photo_by_Giles_Laurent.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
 | 무사카 | [Michael Wittwer / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moussaka_2022.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
 | 수블라키 | [NikosLikomitros / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_souvlaki.jpg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · 원본 사용 |
+| 그릭 샐러드 | [Armineaghayan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
 
 [← 전체 여행지 보기](../README.md)
