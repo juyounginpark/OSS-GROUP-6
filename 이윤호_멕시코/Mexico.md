@@ -47,7 +47,7 @@
 
 ## 🍽️ 유명 음식
 
-멕시코 음식은 **옥수수·콩·고추**를 비롯한 재료와 농사, 조리 기술, 공동체의 전통이 이어져 만들어집니다. UNESCO는 전통 멕시코 요리를 재배부터 조리와 식사까지 이어지는 문화적 실천으로 소개합니다. 대표 음식 세 가지를 골라봤습니다.
+멕시코 음식은 **옥수수·콩·고추**를 비롯한 재료와 농사, 조리 기술, 공동체의 전통이 이어져 만들어집니다. UNESCO는 [전통 멕시코 요리](https://ich.unesco.org/en/RL/traditional-mexican-cuisine-ancestral-ongoing-community-culture-the-michoacan-paradigm-00400)를 재배부터 조리와 식사까지 이어지는 공동체의 문화적 실천으로 소개합니다. 대표 음식 세 가지를 골라봤습니다.
 
 - **타코 알 파스토르:** 양념한 돼지고기를 세로 꼬치에 구워 얇게 썰고, 작은 옥수수 토르티야에 올려 먹습니다. 양파와 고수, 살사, 파인애플을 곁들여 보세요. 멕시코시티의 타케리아에서 여러 살사를 조금씩 맛보며 나만의 조합을 찾는 재미가 있습니다.
 
@@ -85,3 +85,9 @@
 - [About Mexico — Visit Mexico](https://visitmexico.com/en/pagina/sobre-mexico)
 - [Archaeological Sites — National Institute of Anthropology and History (INAH)](https://lugares.inah.gob.mx/en/zonas-arqueologicas)
 - [Indigenous festivity dedicated to the dead — UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054)
+- [Traditional Mexican cuisine — UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/traditional-mexican-cuisine-ancestral-ongoing-community-culture-the-michoacan-paradigm-00400)
+
+### 사진 출처
+
+- 타코 알 파스토르: [William Neuheisel, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:01_Tacos_al_Pastor.jpg), CC BY 2.0
+- 몰레 포블라노: [Melissa Doroquez, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mole_Poblano.jpg), CC BY-SA 2.0
