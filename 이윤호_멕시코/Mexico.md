@@ -37,13 +37,19 @@
 
 멕시코시티에서 당일 여행으로 다녀올 수 있는 고대 도시입니다. 넓은 유적지에는 **태양의 피라미드와 달의 피라미드**, 사자의 거리, 케찰코아틀 신전이 있습니다. [INAH 안내](https://lugares.inah.gob.mx/es/fut-cultura/6731)에 따르면 유적지에는 기념비적인 건축물과 주거 구역, 벽화가 남아 있어 당시 도시의 규모와 생활을 상상해 볼 수 있습니다. 야외에서 걷는 시간이 길기 때문에 모자와 물을 챙기세요.
 
+![테오티우아칸의 달의 피라미드](images/teotihuacan_luna.jpg)
+
 ### 3. 치첸이트사
 
 유카탄반도의 마야 문명을 대표하는 유적입니다. 쿠쿨칸 신전으로도 불리는 **엘 카스티요**, 전사의 신전과 구기장 등을 둘러볼 수 있습니다. [INAH 소개](https://lugares.inah.gob.mx/en/node/4335)는 이 도시가 마야 지역의 건축과 중앙 멕시코의 영향을 함께 보여준다고 설명합니다. 멕시코시티에서 거리가 있으므로 칸쿤이나 메리다를 여행할 때 묶어 방문하는 편이 좋습니다.
 
+![치첸이트사의 엘 카스티요](images/chichen_itza_castillo.jpg)
+
 ### 4. 오악사카와 몬테알반
 
 오악사카 구시가지는 광장과 시장, 낮은 건물 사이를 걸으며 지역의 일상을 느끼기 좋은 도시입니다. 가까운 몬테알반은 산 위에 조성된 사포텍 문명의 중심지로, 넓은 중앙 광장과 피라미드, 계곡 전망이 특징입니다. [UNESCO 세계유산 설명](https://whc.unesco.org/en/list/415/)은 오악사카의 역사 지구와 몬테알반을 서로 다른 시대와 문화가 이어지는 한 유산으로 소개합니다.
+
+![몬테알반 유적](images/monte_alban.jpg)
 
 ## 🍽️ 유명 음식
 
@@ -89,5 +95,8 @@
 
 ### 사진 출처
 
+- 테오티우아칸 달의 피라미드: [Gzzz, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Teotihuacan_Pir%C3%A1mide_de_la_Luna.jpg), CC BY-SA 4.0
+- 치첸이트사 엘 카스티요: [Elelicht, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chichen_Itza_El_Castillo.JPG), CC BY-SA 3.0
+- 몬테알반: [Nosferattus, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monte_Alb%C3%A1n_6813.jpg), CC0 1.0
 - 타코 알 파스토르: [William Neuheisel, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:01_Tacos_al_Pastor.jpg), CC BY 2.0
 - 몰레 포블라노: [Melissa Doroquez, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mole_Poblano.jpg), CC BY-SA 2.0
