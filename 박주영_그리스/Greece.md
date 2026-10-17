@@ -55,7 +55,6 @@
 <img src="images/acropolis.jpg" alt="아테네 아크로폴리스의 파르테논 신전" width="720" />
 
 - **볼거리:** 파르테논 신전과 언덕에서 내려다보는 아테네 전경
-- **사진:** [C.Skaug / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parthenon-akropolis-athen.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용
 
 ### 🌅 2. 산토리니 이아 마을
 
@@ -64,7 +63,6 @@
 <img src="images/santorini-oia.jpg" alt="바다에서 바라본 산토리니 이아 마을의 절벽과 건물" width="720" />
 
 - **볼거리:** 절벽 위 마을 풍경과 에게해의 일몰
-- **사진:** [Norbert Nagel / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oia_-_Santorini_-_Greece_-_11.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · 원본 사용
 
 ### ⛰️ 3. 메테오라
 
@@ -73,7 +71,6 @@
 <img src="images/meteora.jpg" alt="거대한 바위 위에 자리한 메테오라 수도원들" width="720" />
 
 - **볼거리:** 바위 위 수도원과 주변 계곡의 탁 트인 풍경
-- **사진:** [Giles Laurent / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1018_Panoramic_view_of_Monasteries_of_Rousanou,_Varlaam_and_Great_Meteoron_in_Meteora_Photo_by_Giles_Laurent.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용
 
 ## 🍽️ 유명 음식
 
@@ -83,15 +80,11 @@
 
 <img src="images/moussaka.jpg" alt="샐러드를 곁들인 그리스 요리 무사카" width="720" />
 
-*사진: [Michael Wittwer / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moussaka_2022.jpg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용*
-
 ### 🍢 2. 수블라키
 
 **수블라키**는 작게 썬 돼지고기나 닭고기를 꼬치에 꿰어 구운 그리스 음식입니다. 구운 고기의 풍미와 레몬의 산뜻함이 특징이며, 피타 빵이나 채소, 차지키소스를 곁들여 간편한 한 끼로 즐길 수 있습니다.
 
 <img src="images/souvlaki.jpg" alt="빵과 감자튀김을 곁들인 수블라키 고기 꼬치" width="480" />
-
-*사진: [NikosLikomitros / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_souvlaki.jpg), [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · 원본 사용*
 
 ## ✨ 자유 주제
 
@@ -101,9 +94,19 @@
 
 <!-- 마무리 글과 추천 여행 코스를 작성하세요. -->
 
-
 ---
 ## 출처 모음
-[산토리니 사진](https://www.joongang.co.kr/article/23716459)
+
+### 사진 출처
+
+| 사용 위치 | 출처·촬영자 | 라이선스 및 사용 방식 |
+| :--- | :--- | :--- |
+| 국기 | [FlagCDN](https://flagcdn.com/) | 프로젝트 공통 국기 이미지 |
+| 나라 소개 · 산토리니 | [중앙일보](https://www.joongang.co.kr/article/23716459) | 기존 사진 출처 |
+| 아테네 아크로폴리스 | [C.Skaug / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Parthenon-akropolis-athen.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
+| 산토리니 이아 마을 | [Norbert Nagel / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oia_-_Santorini_-_Greece_-_11.jpg) | [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) · 원본 사용 |
+| 메테오라 | [Giles Laurent / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1018_Panoramic_view_of_Monasteries_of_Rousanou,_Varlaam_and_Great_Meteoron_in_Meteora_Photo_by_Giles_Laurent.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
+| 무사카 | [Michael Wittwer / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Moussaka_2022.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
+| 수블라키 | [NikosLikomitros / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_souvlaki.jpg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · 원본 사용 |
 
 [← 전체 여행지 보기](../README.md)
