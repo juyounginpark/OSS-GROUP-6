@@ -65,6 +65,8 @@
 
 <!-- 마무리 글과 추천 여행 코스를 작성하세요. -->
 
+<img src="images/Buckingham_Palace.jpg" alt="버킹엄 궁전" height="540" />
+
 ---
 
 [← 전체 여행지 보기](../README.md)
