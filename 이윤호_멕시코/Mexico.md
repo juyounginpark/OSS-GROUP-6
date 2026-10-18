@@ -2,30 +2,124 @@
 
 > 작성자: 이윤호
 
-<img src="images/flag.png" alt="멕시코 국기" width="180" />
+![멕시코 국기](images/flag.png)
 
 ---
 
 ## 🌍 나라 소개 · Intro
 
-<!-- 나라 소개를 작성하세요. -->
+![멕시코시티 전경](images/img_mexicocity_540.webp)
+
+> **고대 문명의 유적부터 활기찬 도시의 시장까지, 멕시코에서는 서로 다른 시대와 지역의 풍경을 만날 수 있습니다.**
+
+멕시코는 북아메리카 남부에 자리한 나라로 태평양, 멕시코만, 카리브해와 맞닿아 있습니다. 정식 국명은 **멕시코 합중국**이며, 수도 멕시코시티와 31개 주로 이루어진 연방 국가입니다. 산맥과 고원, 사막, 열대우림, 해안이 이어지는 넓은 땅에서 지역마다 다른 자연환경과 문화를 만날 수 있습니다.
+
+올멕과 마야를 비롯한 메소아메리카 문명의 유산, 스페인 식민 시대의 건축, 오늘날의 도시 문화가 한 나라 안에 겹쳐 있습니다. 멕시코 여행은 한 가지 모습만 보는 일이 아니라 **지역마다 달라지는 역사와 생활을 따라가는 여정**입니다.
 
 ## 📍 유명 여행지
 
-<!-- 여행지 소개와 이미지를 넣으세요. -->
+처음 여행지를 고를 때는 아래 표에서 지역과 관심사를 먼저 살펴보세요. 멕시코시티와 테오티우아칸은 한 여행에 묶기 쉽고, 오악사카와 유카탄반도는 각각 별도의 이동 일정을 두면 좋습니다.
+
+| 지역 | 추천 장소 | 여행의 중심 |
+|---|---|---|
+| 멕시코시티 | 역사 지구, 소치밀코 | 도시의 역사와 운하 풍경 |
+| 멕시코시티 근교 | 테오티우아칸 | 메소아메리카 고대 도시와 피라미드 |
+| 유카탄반도 | 치첸이트사 | 마야 문명의 건축 유적 |
+| 오악사카 | 오악사카 구시가지, 몬테알반 | 식민 도시와 사포텍 유적 |
+
+### 1. 멕시코시티 역사 지구와 소치밀코
+
+아즈텍의 옛 수도 테노치티틀란 위에 세워진 멕시코시티에서는 고대 유적과 식민 시대 건축, 현대의 대도시 풍경이 만납니다. 소칼로 광장과 대성당, 템플로 마요르 주변을 걷고 박물관을 둘러보면 도시의 여러 시대를 차례로 살펴볼 수 있습니다.
+
+도심에서 남쪽으로 이동하면 **소치밀코의 운하와 인공 섬 치남파**가 이어집니다. 운하를 따라 배를 타면 오늘날의 대도시와 멕시코 계곡의 옛 수상 경관을 함께 떠올릴 수 있습니다. 두 지역은 [UNESCO 세계유산 구역](https://whc.unesco.org/en/list/412/)에 함께 포함되어 있습니다.
+
+### 2. 테오티우아칸
+
+멕시코시티에서 당일 여행으로 다녀올 수 있는 고대 도시입니다. 넓은 유적지에는 **태양의 피라미드와 달의 피라미드**, 사자의 거리, 케찰코아틀 신전이 있습니다. [INAH 안내](https://lugares.inah.gob.mx/es/fut-cultura/6731)에 따르면 유적지에는 기념비적인 건축물과 주거 구역, 벽화가 남아 있어 당시 도시의 규모와 생활을 상상해 볼 수 있습니다. 야외에서 걷는 시간이 길기 때문에 모자와 물을 챙기세요.
+
+![테오티우아칸의 달의 피라미드](images/teotihuacan_luna.jpg)
+
+### 3. 치첸이트사
+
+유카탄반도의 마야 문명을 대표하는 유적입니다. 쿠쿨칸 신전으로도 불리는 **엘 카스티요**, 전사의 신전과 구기장 등을 둘러볼 수 있습니다. [INAH 소개](https://lugares.inah.gob.mx/en/node/4335)는 이 도시가 마야 지역의 건축과 중앙 멕시코의 영향을 함께 보여준다고 설명합니다. 멕시코시티에서 거리가 있으므로 칸쿤이나 메리다를 여행할 때 묶어 방문하는 편이 좋습니다.
+
+![치첸이트사의 엘 카스티요](images/chichen_itza_castillo.jpg)
+
+### 4. 오악사카와 몬테알반
+
+오악사카 구시가지는 광장과 시장, 낮은 건물 사이를 걸으며 지역의 일상을 느끼기 좋은 도시입니다. 가까운 몬테알반은 산 위에 조성된 사포텍 문명의 중심지로, 넓은 중앙 광장과 피라미드, 계곡 전망이 특징입니다. [UNESCO 세계유산 설명](https://whc.unesco.org/en/list/415/)은 오악사카의 역사 지구와 몬테알반을 서로 다른 시대와 문화가 이어지는 한 유산으로 소개합니다.
+
+![몬테알반 유적](images/monte_alban.jpg)
 
 ## 🍽️ 유명 음식
 
-<!-- 음식 소개와 이미지를 넣으세요. -->
+멕시코 음식은 **옥수수·콩·고추**를 비롯한 재료와 농사, 조리 기술, 공동체의 전통이 이어져 만들어집니다. UNESCO는 [전통 멕시코 요리](https://ich.unesco.org/en/RL/traditional-mexican-cuisine-ancestral-ongoing-community-culture-the-michoacan-paradigm-00400)를 재배부터 조리와 식사까지 이어지는 공동체의 문화적 실천으로 소개합니다. 대표 음식 세 가지를 골라봤습니다.
+
+- **타코 알 파스토르:** 양념한 돼지고기를 세로 꼬치에 구워 얇게 썰고, 작은 옥수수 토르티야에 올려 먹습니다. 양파와 고수, 살사, 파인애플을 곁들여 보세요. 멕시코시티의 타케리아에서 여러 살사를 조금씩 맛보며 나만의 조합을 찾는 재미가 있습니다.
+
+![타코 알 파스토르](images/tacos_al_pastor.jpg)
+
+- **몰레 포블라노:** 푸에블라를 대표하는 음식입니다. 여러 고추와 향신료, 견과류 등을 갈아 만든 진한 소스인 몰레를 닭고기 등에 곁들입니다. 조리법은 지역과 가정에 따라 달라 한 가지 맛으로 설명하기 어렵습니다.
+
+![몰레 포블라노](images/mole_poblano.jpg)
+
+- **타말:** 옥수수 반죽에 고기나 채소, 소스를 넣고 옥수수 껍질이나 바나나 잎으로 감싸 쪄 냅니다. 지역마다 속재료와 모양이 달라 시장에서 여러 종류를 만날 수 있습니다. 따뜻한 아톨레와 곁들이면 든든한 한 끼가 됩니다.
 
 ## ✨ 자유 주제
 
-<!-- 원하는 주제를 정하고 단락을 작성하세요. -->
+### 망자의 날 (Día de Muertos)
+
+멕시코 원주민 공동체가 이어 온 망자의 날은 세상을 떠난 가족과 가까운 이들이 잠시 돌아온다고 기리는 축제입니다. 매년 10월 말부터 11월 초에 열리며, 가족은 꽃잎과 촛불, 제물을 놓고 고인이 좋아하던 음식을 준비합니다. 지역과 공동체에 따라 의례와 풍습은 다르게 이어집니다. ([UNESCO 무형문화유산 설명](https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054))
+
+> 화려한 해골 장식 뒤에는 가족과 공동체가 고인을 기억하고 함께 이야기를 나누는 시간이 있습니다.
+
+여행 중 축제나 의례를 마주친다면 사진을 찍기 전에 현지의 안내와 예절을 살피고 그 의미를 이해해 보세요. 멕시코의 살아 있는 문화를 존중하는 태도도 여행의 중요한 일부입니다.
 
 ## 🧳 마무리 및 본인이 추천하는 코스
 
-<!-- 마무리 글과 추천 여행 코스를 작성하세요. -->
+멕시코는 한 번에 모든 지역을 보기 어려울 만큼 넓습니다. 첫 여행은 **멕시코시티를 거점으로 역사와 음식을 경험하고, 하루를 테오티우아칸에 할애하는 4일 코스**로 시작해 보세요.
+
+### 4일 일정
+
+1. **1일 차:** 소칼로 광장, 대성당, 템플로 마요르 주변을 걸으며 멕시코시티 역사 지구 둘러보기
+2. **2일 차:** 국립인류학박물관과 차풀테펙 공원 방문
+3. **3일 차:** 테오티우아칸 당일 여행 후 멕시코시티에서 타코 알 파스토르 맛보기
+4. **4일 차:** 시장과 동네 카페를 둘러보고, 시간이 맞으면 소치밀코 운하 체험
+
+```mermaid
+graph TD
+    A[멕시코시티] --> B[테오티우아칸 당일 여행]
+    B --> A
+    A --> C[소치밀코 운하]
+    A --> D[일정 연장]
+    D --> E[오악사카와 몬테알반]
+    D --> F[유카탄반도와 치첸이트사]
+```
+
+여행 기간을 연장한다면 오악사카와 몬테알반, 또는 유카탄반도와 치첸이트사를 더해 지역별 풍경과 음식을 비교해 보세요. 두 지역은 멕시코시티 근교가 아니므로 이동과 숙박을 별도로 계획해야 합니다.
+
+### 떠나기 전 확인할 것
+
+- [ ] 유적과 박물관 운영 시간, 휴관일 확인하기
+- [ ] 테오티우아칸 왕복 교통편과 이동 시간 확인하기
+- [ ] 장거리 이동을 포함한다면 숙박과 지역 간 교통편 예약하기
 
 ---
 
 [← 전체 여행지 보기](../README.md)
+
+---
+## Reference Source
+
+- [About Mexico — Visit Mexico](https://visitmexico.com/en/pagina/sobre-mexico)
+- [Archaeological Sites — National Institute of Anthropology and History (INAH)](https://lugares.inah.gob.mx/en/zonas-arqueologicas)
+- [Indigenous festivity dedicated to the dead — UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/dia-de-muertos-the-indigenous-festivity-dedicated-to-the-dead-00054)
+- [Traditional Mexican cuisine — UNESCO Intangible Cultural Heritage](https://ich.unesco.org/en/RL/traditional-mexican-cuisine-ancestral-ongoing-community-culture-the-michoacan-paradigm-00400)
+
+### 사진 출처
+
+- 테오티우아칸 달의 피라미드: [Gzzz, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Teotihuacan_Pir%C3%A1mide_de_la_Luna.jpg), CC BY-SA 4.0
+- 치첸이트사 엘 카스티요: [Elelicht, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chichen_Itza_El_Castillo.JPG), CC BY-SA 3.0
+- 몬테알반: [Nosferattus, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Monte_Alb%C3%A1n_6813.jpg), CC0 1.0
+- 타코 알 파스토르: [William Neuheisel, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:01_Tacos_al_Pastor.jpg), CC BY 2.0
+- 몰레 포블라노: [Melissa Doroquez, Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mole_Poblano.jpg), CC BY-SA 2.0
