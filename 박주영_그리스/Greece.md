@@ -4,7 +4,6 @@
 
 <img src="images/flag.png" alt="그리스 국기" width="180" />
 
-<<<<<<< HEAD
 ## 📑 목차
 
 - [나라 소개](#-나라-소개--intro)
@@ -14,13 +13,10 @@
 - [마무리 및 추천 코스](#-마무리-및-본인이-추천하는-코스)
 - [출처 모음](#출처-모음)
 
-=======
->>>>>>> 1a2434d0674d90faaaa4ad1600015f617a6de795
 ---
 
 ## 🌍 나라 소개 · Intro
 
-<<<<<<< HEAD
 그리스(Greece)는 **유럽 남동부 발칸반도 남쪽**에 위치한 나라로, 에게해와 이오니아해를 따라 수많은 섬이 펼쳐져 있습니다. 수도는 **아테네(Athens)**이며, 고대 유적과 푸른 바다를 함께 만날 수 있는 곳입니다.
 
 ### 📋 한눈에 보는 그리스
@@ -157,26 +153,4 @@
 | 수블라키 | [NikosLikomitros / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_souvlaki.jpg) | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) · 원본 사용 |
 | 그릭 샐러드 | [Armineaghayan / Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Greek_Salad_from_Thessaloniki.jpg) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) · 원본 사용 |
 
-=======
-<!-- 나라 소개를 작성하세요. -->
-
-## 📍 유명 여행지
-
-<!-- 여행지 소개와 이미지를 넣으세요. -->
-
-## 🍽️ 유명 음식
-
-<!-- 음식 소개와 이미지를 넣으세요. -->
-
-## ✨ 자유 주제
-
-<!-- 원하는 주제를 정하고 단락을 작성하세요. -->
-
-## 🧳 마무리 및 본인이 추천하는 코스
-
-<!-- 마무리 글과 추천 여행 코스를 작성하세요. -->
-
----
-
->>>>>>> 1a2434d0674d90faaaa4ad1600015f617a6de795
 [← 전체 여행지 보기](../README.md)
